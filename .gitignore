@@ -1,4 +1,7 @@
 ./target/*
 ./.idea/*
+./.idea/markdown-navigator.xml
+./.idea/misc.xml
+./.idea/workspace.xml
 ./*.iml
 target/generated-sources/
